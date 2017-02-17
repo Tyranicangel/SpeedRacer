@@ -13,14 +13,14 @@ Implement a single screen/level from a simple game in Unity.
 * Should look good (simple art is okay)
 * Some sort of AI (random or repetitive motion is okay) Example: an enemy bot moving randomly and causes the player to die when in contact.
 * I suggest something simple like PacMan
-* Extra credit: More complex collision detection than picking up an item or being destroyed. Example: Animations, more complex things like lives multiple AIs (get creative- Health/Points)
-* Feel free to use online Unity resources to figure Unity out. Never copy-paste code from online forums. You can however, reference any online forum for help.
+* Extra credit: More complex collision detection than picking up an item or being destroyed. Example: more complex things like lives, animations, multiple AIs, AI chases the player when close, AI varies speed when spots the player, Health, Points system (get creative)
+* Feel free to use online Unity resources for reference. Never copy-paste code from online forums. You can however, reference any online forum for help.
 
 ##Grading rubrics( 5 points each):
 * Is the game fun to play
-* Does the game run properly and does not have bugs
+* Does the game run properly and **does not have bugs**
 * Does the game look good. Simple meaningful art is ok
-* Extra credit: advanced collisions/AI/animations/something else.
+* Extra credit: (Look at the extra credit section in the description above.)
 
 
 ## Tips for uploading a preexisting project.
@@ -28,12 +28,12 @@ Many of you may have started working on the project already. In order to add you
 
 * Clone this repository
 * Copy and paste your project files into the cloned folder.
-* Make sure you have set the necessary version control settings for Unity3D before pushing into Git. Look here for details: http://stackoverflow.com/a/18225479/3255842 ( Look at the section called 'Unity3D settings')
+* Make sure you have set the necessary version control settings for Unity3D before pushing into Git. Look here for details: http://stackoverflow.com/a/18225479/3255842 (Look at the section called 'Unity3D settings')
 * In a terminal or via Git Shell(windows)
 * `git add -all`
 * `git commit -m "some commit message here"`
 * `git push origin master`
-You are free to push to git in some other client/way as long as all the requirements are met.
+* You are free to push to git in some other client/way as long as all the requirements are met.
 
 ## Notes
 * Use Unity version 5.5.1 for this project. Never use Beta versions for projects. If you have to use a lower version, it may be ok. But DO NOT use a higher version than 5.5.1

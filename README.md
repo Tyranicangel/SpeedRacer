@@ -1,6 +1,13 @@
 #HW2 Simple Game
 
 #First-Name Last-Name
+Chandra Pradyumn Adusumilli
+
+##Description
+Use Arrow keys for controls
+Pick up fuel to last longer
+Avoid Enemies
+As Score gets Higher Enemies move towards you and also appear more often
 
 TODO - Update your name in this readme.
 
